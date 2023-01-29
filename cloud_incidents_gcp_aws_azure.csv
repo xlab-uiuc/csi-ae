@@ -1,0 +1,56 @@
+Issue Link,Failure Type
+https://status.cloud.google.com/incidents/cFXPsFUnUELR8U2bQeGz,CSI
+https://status.cloud.google.com/incidents/RuhtpSMAzS1DHhEaqGoQ,Dependency
+https://status.cloud.google.com/incidents/n7ztBQkzgVLAuNdcf6zc,Dependency
+https://status.cloud.google.com/incidents/UGitQGdvkK1kU16y3gVN,CSI
+https://status.cloud.google.com/incidents/wPngCuQwJwQQVj1rSLbi	,CSI
+https://status.cloud.google.com/incidents/Lbz1XhnuinBvUTaWStSk	,Dependency
+https://status.cloud.google.com/incident/cloud-networking/21002,Dependency
+https://status.cloud.google.com/incidents/ZBn5YCjNpQfGrT6Mw8XJ	,Dependency
+https://status.cloud.google.com/incidents/xZvCaK2TDTR8LeLHCpKm	,Dependency
+https://status.cloud.google.com/incidents/NuaWbbv8n8V8PMHNR7kT	,CSI
+https://status.cloud.google.com/incidents/qq7VS3aLtp6Nmgs5Nux4        ,CSI
+https://status.cloud.google.com/incidents/147oZiNBz96HEgFGaBGk	,Dependency
+https://status.cloud.google.com/incidents/46veKMaJk9HyWA9A5UHW	,Irrelevant
+https://status.cloud.google.com/incidents/xCt3N4A7v58KatG1xYLy,Irrelevant
+https://status.cloud.google.com/incidents/yXYMsVcfYUtwLtzCxJCw	,Dependency
+https://status.cloud.google.com/incidents/no91ZWd18UwgvQi7p28c	,Dependency
+https://status.cloud.google.com/incident/cloud-networking/20005	,Dependency
+https://status.cloud.google.com/incident/zall/20010	,Dependency
+https://status.cloud.google.com/incidents/gSK8a8MWQR6bvfocX47R	,Dependency
+https://status.cloud.google.com/incidents/1tX748pbxW2JjTUuTJsx	,CSI
+https://aws.amazon.com/message/12721/,CSI
+https://aws.amazon.com/message/17908/,Dependency
+https://aws.amazon.com/message/11201/,Dependency
+https://aws.amazon.com/message/56489/,Dependency
+https://aws.amazon.com/message/74876/,Dependency
+https://aws.amazon.com/message/41926/,Dependency
+https://aws.amazon.com/message/4372T8/,Dependency
+https://aws.amazon.com/message/5467D2/,CSI
+https://aws.amazon.com/message/2329B7/,Dependency
+https://aws.amazon.com/message/65649/,Irrelevant
+https://aws.amazon.com/message/656481/,Dependency
+https://aws.amazon.com/message/680587/,Dependency
+https://aws.amazon.com/message/680342/,Dependency
+https://aws.amazon.com/message/67457/,Dependency
+https://aws.amazon.com/message/65648/,Dependency
+RCA - Virtual Machines (Tracking ID 0NC_-L9G),Dependency
+RCA - Connection errors for resources leveraging Azure Front Door and Azure CDN (Tracking ID 0MQY-NPG),Dependency
+RCA - Azure Cognitive Services - Azure Government (Tracking ID 4VWK-LPZ),Dependency
+RCA - Azure Front Door and Azure CDN - Connectivity issues and increased latency (Tracking ID 0TYG-DPG),Dependency
+RCA - Error notifications for service management operations - West US 2 (Tracking ID LL1H-9CZ),Dependency
+Azure Speech Service - West Europe - Mitigated (Tracking ID LLL3-LTZ),Dependency
+RCA - DNS issue impacting multiple Microsoft services (Tracking ID GVY5-TZZ),CSI
+RCA - Azure Cosmos DB connectivity issues affecting downstream services in West US region (Tracking ID CVTV-R80),Dependency
+RCA - Azure Active Directory - Authentication errors (Tracking ID PS0T-790),Dependency
+RCA - Azure Resource Manager - Issues accessing Azure resources via ARM (Tracking ID ZLXD-HT8),CSI
+Azure DevOps - Service Outage - Mitigated (Tracking ID SNDL-NS8),Dependency
+RCA - Storage - East US (Tracking ID 9VHK-J80),Dependency
+RCA - Managed Database services - China North (Tracking ID ZK36-9P8),Dependency
+RCA - Service Availability Issue in West Central US (Tracking ID SMR4-D90),Dependency
+RCA - Cross-Region Connectivity Issue - North America (Tracking ID 4_YR-FC8),Dependency
+"Service Management Failures for Application Gateway, Azure Bastion, and Azure Firewall (Tracking ID HT3R-990)",CSI
+RCA - Azure connectivity issues (Tracking ID 0TSQ-TT0),Dependency
+SMS MFA not being received by multiple tenants (Tracking ID ZKP4-NSG),Irrelevant
+Intermittent latency in US Government Cloud - Mitigated (Tracking ID DLS5-TZ0),Dependency
+"RCA - Azure Active Directory - Experiencing sign in issues when attempting to access Azure, Dynamics 365, and/or Microsoft 365 Services (Tracking ID S_3M-FZZ)",Dependency
